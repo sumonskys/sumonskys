@@ -1,3 +1,4 @@
+![github cover photo](https://user-images.githubusercontent.com/6709983/154530584-9d174907-024d-45ba-b730-6b46b2328bf5.gif)
 ### Hi there 👋
 
 This is Samrat Shahajahan (Sumon). Backend developer on PHP and Laravel. Enthusiastic about learning new technologies and gaining more knowledge of what I already know. Basically as a backend engineer I feel a lot of comfort. I want to do something for myself, my country and everyone. I have worked on different languages and technology but my favorite language is PHP. Now I am working on Laravel because this is the most common and popular language. Well, this is all about me and Welcome to my GitHub Profile!!!
